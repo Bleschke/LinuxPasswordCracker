@@ -18,7 +18,7 @@ You will need:
 
 In order to use this code you will have to download and unpackage this repository listed below:
 
-        [https://github.com/Bleschke/LinuxPasswordCracker.git](https://github.com/Bleschke/LinuxPasswordCracker.git)
+        https://github.com/Bleschke/LinuxPasswordCracker.git
 
 All files need to placed in the same file location/folder in order for the program to run (unless you specify the file location).
 
