@@ -22,7 +22,7 @@ In order to use this code you will have to download and unpackage this repositor
 
 All files need to placed in the same file location/folder in order for the program to run (unless you specify the file location).
 
-To run the program, type in a terminal window:
+To run the program, type the following in a terminal window under the directory in which the files were placed:
 
         sudo python assignment2.py
 
