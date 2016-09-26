@@ -30,7 +30,7 @@ To run the program, type the following in a terminal window under the directory 
 
 To change the location of the shadow file, you will need to edit the &quot;assignment2.py&quot; file with a text editor of your choosing. You will need to edit these two variables located towards the top of the file to match your dictionary file and shadow file locations.
 
-        PASSWD\_DICT = 'phpbb.txt';   # path to password dictionary
+        PASSWD_DICT = 'phpbb.txt';   # path to password dictionary
 
-        SHADOW\_LOC = '/etc/shadow';  # path to shadow file
+        SHADOW_LOC = '/etc/shadow';  # path to shadow file
 
