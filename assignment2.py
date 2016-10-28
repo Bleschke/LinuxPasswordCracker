@@ -16,7 +16,7 @@ SHADOW_LOC = '/etc/shadow' # path to shadow file
 
 def main():
 	print(" .----------------------------. ")
-	print(" | Welcome to Crack the Hash! | ")
+	print(" | Welcome to Hash Crack!     | ")
 	print(" | Brian Leschke '@bleschke'  | ")
 	print(" | Version 1.0                | ")
 	print(" | September 2016             | ")
